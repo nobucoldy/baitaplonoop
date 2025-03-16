@@ -17,7 +17,7 @@ cho người dùng một công cụ linh hoạt và tiện ích để giám sát
 
 
 ## Sơ đồ chức năng:
-![sodoqlycafe](https://github.com/user-attachments/assets/b8c0ed32-2e64-4f07-ae03-d1c2fb6f6218)
+![image](https://github.com/user-attachments/assets/6953e4d9-caed-44de-9214-4a9241ab3123)
 
 ## Báo cáo:
 [laptrinhhuongdoituong.docx](https://github.com/user-attachments/files/19272981/laptrinhhuongdoituong.docx)
